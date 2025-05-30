@@ -58,9 +58,17 @@ I thrive on solving complex challenges and contributing to the advancement of te
 
 ---
 
+### 💡 Beyond the Code: My Interests
+
+* I have some experience in **3D modeling and 3D printing**, often leveraging these skills for prototyping and developing custom enclosures for my embedded systems projects.
+* In my free time, I enjoy producing music in **Digital Audio Workstations (DAW)**, exploring different sounds and genres.
+
+---
+
 ### 🤝 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/ricardo-de-castro-paula-527338210/)
+* **Portfolio:** [My Portfolio - *Under Construction!*](https://portfolio-ricardocastro.vercel.app/)
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/ricardo-de-castro-paula-527338210/)
 * **Email:** [rcastropaula02@gmail.com]
 
 ---
