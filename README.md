@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Ricardo de Castro
 
-### 🚀 Embedded Systems Researcher | IoT & Firmware Developer | Data Enthusiast
+### 🚀 Electronics Engineering Student | Industrial Automation Technician | Embedded Systems Researcher | IoT & Firmware Developer | Data Enthusiast
 
 ---
 
-I'm a passionate **Researcher at UTFPR** with a strong focus on **Embedded Systems** and **IoT solutions**. My expertise lies in crafting efficient and robust firmware for microcontrollers like the **ESP32**, with a particular interest in **LoRa communication** for cutting-edge IoT deployments.
+I'm an **Electronics Engineering student at UTFPR** and also hold a technical qualification in **Industrial Automation from Instituto Federal**. As a passionate **Researcher** at UTFPR, my strong focus lies in **Embedded Systems** and **IoT solutions**. My expertise involves crafting efficient and robust firmware for microcontrollers like the **ESP32**, with a particular interest in **LoRa communication** for cutting-edge IoT deployments.
 
 I thrive on solving complex challenges and contributing to the advancement of technology. My research has led to a publication in the **IEEE Xplore for the SBESC symposium**.
 
