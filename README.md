@@ -39,6 +39,7 @@ I thrive on solving complex challenges and contributing to the advancement of te
 <p>
   <img src="https://img.shields.io/badge/Data%20Analysis-4A90E2?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Analysis" />
   <img src="https://img.shields.io/badge/Web%20Scraping-336699?style=for-the-badge&logo=scrapy&logoColor=white" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
