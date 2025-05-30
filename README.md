@@ -55,7 +55,7 @@ I thrive on solving complex challenges and contributing to the advancement of te
 
 ### 📚 My Latest Contribution:
 
-* In collaboration with my colleagues, I contributed to this publication for the SBESC symposium: **[IEEEXplore article](https://ieeexplore.ieee.org/document/10771930)** - This work aims to develop an algorithm that is able to determine the location of a moving object based on its angular position, the results show that the angle-based algorithm reduces the number of transmitted coordinates by up to 30%.
+* In collaboration with my colleagues, I contributed to this publication for the SBESC symposium: **[An Angular Position-Based Tracking Algorithm for Geolocation in Smart Cities Applications](https://ieeexplore.ieee.org/document/10771930)** - This work aims to develop an algorithm that is able to determine the location of a moving object based on its angular position, the results show that the angle-based algorithm reduces the number of transmitted coordinates by up to 30%.
 
 ---
 
