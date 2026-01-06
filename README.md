@@ -13,6 +13,9 @@ I thrive on solving complex challenges and contributing to the advancement of te
 ### 💻 My Toolkit & Expertise:
 
 **Programming Languages:**
+
+[![Top Langs](https://github-readme-stats-five-xi-77.vercel.app/api/top-langs/?username=ricsrdocasro)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
